@@ -1,1 +1,5 @@
 这个文件描述为安装centos7
+1、注意centos7的安装包，有几百兆到4个G的，根据自己的需求下载；
+2、如在虚拟机上安装，请确认计算机的bios里 把Intel virtual Tehnology 的设置改为enabled 就可以啦..
+3、这里列举几个详细教程：http://www.centoscn.com/image-text/setup/2014/0723/3341.html
+4、尊重人家的创作权 教程转自http://tieba.baidu.com/p/3152957061?see_lz=1
